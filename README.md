@@ -1,16 +1,13 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/25144992/197199575-34ed7d90-d876-4b4f-9516-0713a90a120e.png)
+ 
+ <p align="center"> <a href="https://www.linkedin.com/in/yasin-magan-3a1522ba/"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a></p>
 
-<!--
-**yasin-magan/yasin-magan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Software Engineer developing AP.NET MVC Web  and APIs using C#, Entity Framework Core and the likes. At the moment, I am based in Malaysia. Currently, I contintously strive in applying service oriented architecture and  implementing microservices with .NET C#. 
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/yasin-magan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasin-Magan&show_icons=true&theme=shades-of-purple&count_private=true" alt="JasonTaylorDev's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasin-Magan&theme=shades-of-purple&layout=compact" 
+    alt="JasonTaylorDev GitHub Top Languages" />
+</a>
