@@ -9,7 +9,7 @@ I'm Software Engineer developing AP.NET MVC Web  and APIs using C#, Entity Frame
 <a href="https://github.com/yasin-magan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasin-Magan&show_icons=true&theme=shades-of-purple&count_private=true" 
        alt="JYasin-Magan's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasin-Magan&theme=shades-of-purple&layout=compact" 
+  <img height="180em" width="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasin-Magan&theme=shades-of-purple&layout=compact" 
     alt="Yasin-Magan GitHub Top Languages" />
 </a>
 </div>
