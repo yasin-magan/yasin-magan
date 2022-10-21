@@ -2,7 +2,7 @@
  
  <p align="center"> <a href="https://www.linkedin.com/in/yasin-magan-3a1522ba/"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a></p>
 
-I'm Software Engineer developing AP.NET MVC Web  and APIs using C#, Entity Framework Core and the likes. At the moment, I am based in Malaysia. Currently, I contintously strive in applying service oriented architecture and  implementing microservices with .NET C#. 
+I'm Software Engineer developing  scalable ASP.NET Core MVC Application and building robust backend API web services. At the moment, I am based in Malaysia. Currently, I contintously strive in applying service oriented architecture and  implementing microservices with .NET C#. 
 
 ## GitHub Stats
 
